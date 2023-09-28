@@ -1,4 +1,3 @@
-
 public class Beverage {
 
   private String name;
